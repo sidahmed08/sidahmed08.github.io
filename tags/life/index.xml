@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/life/</link>
+      <atom:link href="http://localhost:1313/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <description>Life</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Life</title>
+      <link>http://localhost:1313/tags/life/</link>
+    </image>
+    
+    <item>
+      <title>🎉 Я НАВЕСТИЛ СВОЮ СЕМЬЮ</title>
+      <link>http://localhost:1313/post/summer/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/summer/</guid>
+      <description>&lt;p&gt;Welcome 👋
+Это был трудный учебный год, и я с нетерпением ждал этого момента. В августе мне пришло время повидаться с семьей, после целого года отсутствия я увидел их полные слез лица в аэропорту. , что заставило меня тоже плакать, хаха.
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
