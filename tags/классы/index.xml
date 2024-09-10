@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Классы | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D1%8B/</link>
+      <atom:link href="http://localhost:1313/tags/%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D1%8B/index.xml" rel="self" type="application/rss+xml" />
+    <description>Классы</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Классы</title>
+      <link>http://localhost:1313/tags/%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D1%8B/</link>
+    </image>
+    
+    <item>
+      <title>Пост первой недели сентября</title>
+      <link>http://localhost:1313/post/lol/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/lol/</guid>
+      <description>&lt;p&gt;Прошлая неделя была для меня очень тяжелой, потому что мы снова пошли в университет, и я только что вернулась с каникул, поэтому я стараюсь начать все хорошо и быть хорошей ученицей. Я купила книги и ручки и подготовилась к новым занятиям.
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Университет | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/ru/tags/%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82/</link>
+      <atom:link href="http://localhost:1313/ru/tags/%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82/index.xml" rel="self" type="application/rss+xml" />
+    <description>Университет</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Университет</title>
+      <link>http://localhost:1313/ru/tags/%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82/</link>
+    </image>
+    
+    <item>
+      <title>Пост первой недели сентября</title>
+      <link>http://localhost:1313/ru/post/lol/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/post/lol/</guid>
+      <description>&lt;p&gt;Прошлая неделя была для меня очень тяжелой, потому что мы снова пошли в университет, и я только что вернулась с каникул, поэтому я стараюсь начать все хорошо и быть хорошей ученицей. Я купила книги и ручки и подготовилась к новым занятиям.
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Содержание&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
